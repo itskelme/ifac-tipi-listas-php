@@ -16,3 +16,7 @@ Listas de exercícios de Programação Web resolvidas em PHP: cada `php/lista-NN
 php -S localhost:8000
 # abra http://localhost:8000
 ```
+
+## Licença
+
+[CC BY-NC 4.0](LICENSE): uso pessoal e modificação permitidos com atribuição; uso comercial proibido.
